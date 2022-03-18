@@ -3,7 +3,7 @@ import Home from "@/views/Home.vue";
 import Countries from "@/views/Countries.vue";
 import CountryEdit from "@/views/CountryEdit.vue";
 import CityEdit from "@/views/CityEdit.vue";
-import CitiesByCountry from "@/views/CitiesByCountry";
+import CitiesByCountry from "@/views/CitiesByCountry.vue";
 
 const routes = [
   {
